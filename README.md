@@ -12,7 +12,7 @@ package main
 import (
 	"log"
 
-	"github.com/alexedwards/argon2id"
+	"github.com/viirak/argon2id"
 )
 
 func main() {
